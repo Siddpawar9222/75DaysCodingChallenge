@@ -1,14 +1,11 @@
-🚀 #51thDay of #75dayscodingchallenge 🌟
+🚀 #52thDay of #75dayscodingchallenge 🌟
 
 Hello Everyone! 👋
 
-Today I solved two #leetcode questions.
+Today I solved one #leetcode questions.
 
 Problem: 
-   236. Lowest Common Ancestor of a Binary Tree
-
-Solved Similar Question: 
- - 235. Lowest Common Ancestor of a Binary Search Tree
+   207. Course Schedule
 
 🔗 Check out my solutions on GitHub: 
     https://lnkd.in/gATMzqcz
